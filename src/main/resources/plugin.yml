@@ -1,0 +1,6 @@
+name: OrbitTrial
+version: '${project.version}'
+main: me.dan.orbittrial.OrbitTrial
+description: Orbit Trial Plugin
+depend:
+  - PluginAPI
